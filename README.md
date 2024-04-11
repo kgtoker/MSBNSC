@@ -19,3 +19,6 @@ https://github.com/mingyuliutw/EntropyRateSuperpixel
 Notes
 * Ensure that the ERS code is correctly placed in the designated subfolder to enable seamless integration with the classifier.
 * Refer to the documentation within the ERS repository for additional information on its usage and functionalities.
+
+You can download the mucilage dataset as a mat file to use in Matlab from Google Drive by clicking [here](https://drive.google.com/file/d/1Is062SwtxdFiwFcy_47Qx6lxthIPuicw/view?usp=drive_link).
+
