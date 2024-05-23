@@ -13,9 +13,10 @@ https://github.com/mingyuliutw/EntropyRateSuperpixel
     * Place the downloaded ERS code files into a subfolder named "Entropy Rate Superpixel Segmentation" within your project directory.
   
 3. Download the mucilage dataset provided below link and place it into the folder with the same directory of MSBNSC.m.
+   
    * You can download the mucilage dataset as a mat file to use in Matlab from Google Drive by clicking [here](https://drive.google.com/file/d/1Is062SwtxdFiwFcy_47Qx6lxthIPuicw/view?usp=drive_link).
 
-4. Run the Classifier: 
+5. Run the Classifier: 
     * Use the main_MSBNSC_ALL.m to run the Multi-Scale Superpixel Based Nearest Subspace Classifier
   
 Notes
