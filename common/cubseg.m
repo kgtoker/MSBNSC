@@ -10,7 +10,7 @@ sigma=0.05;
 K=cc;
 grey_img = im2uint8(mat2gray(Y(:,:,5)));
 
-lambda_prime = 0.8;  sigma = 10;  conn8 = 1;
+lambda_prime = 0.8;  sigma = 1;  conn8 = 1;
 labels = mex_ers(double(img),K,lambda_prime,sigma,conn8);
 
 [height width] = size(grey_img);
