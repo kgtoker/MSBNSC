@@ -17,9 +17,9 @@
 %% Experimental Setup and Parameter setting
 disp('Experimental Setup and Parameter setting')
 % the number of desired superpixels
-num_Superpixels        =   125*sqrt(2).^[14:20] % Bursa2 
+num_Superpixels        =   125*sqrt(2).^[12:18] % Bursa2 
 %num_Superpixels        =   125*sqrt(2).^[7:13] % use this setting for istanbul mucilage dataset
-trainingDataSize = 20; % number of training data
+trainingDataSize = 100; % number of training data
 removeTrainingInstancesInNeighborhood = 1;  % If removeTrainingInstancesInNeighborhood = 1,
 % We remove the training samples that are in spatial neighborhood of the test samples during classification for fair comparison.
 % if removeTrainingInstancesInNeighborhood = 0, The spatial neighborhood of the test samples includes training samples. % This increases classification performance, 
