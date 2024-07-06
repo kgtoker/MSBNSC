@@ -1,6 +1,7 @@
 # MSBNSC
 This repository contains MATLAB code for implementing the "Multi-Scale Superpixel Based Nearest Subspace Classifier For Hyperspectral Images." 
 If you use the code, please cite the paper given below,
+
 https://authors.elsevier.com/a/1jN9Q3l0%7Eht4K7
 
 @article{TOKER2024104657,
