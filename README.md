@@ -40,6 +40,7 @@ Notes
 * Refer to the documentation within the ERS repository for additional information on its usage and functionalities.
 
 If you use the dataset, please cite the papers given below,
+
 @article{TOKER2024104657,
 title = {Multi-scale superpixel-based nearest subspace classifier for mucilage detection from hyperspectral PRISMA data},
 journal = {Digital Signal Processing},
