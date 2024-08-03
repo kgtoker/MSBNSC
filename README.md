@@ -17,7 +17,7 @@ author = {Kemal Gürkan Toker and Seniha Esen Yuksel},
 keywords = {Hyperspectral image classification (HSIC), Nearest subspace classifier (NSC), Canonical correlation analysis (CCA), Multiscale superpixel segmentation, Mucilage detection, Sea of Marmara}
 }
 
-Usage
+# Usage
 To utilize this code, follow these steps:
 
 1. Download the (Entropy Rate Superpixel Segmentation) ERS Code:
@@ -35,7 +35,7 @@ https://github.com/mingyuliutw/EntropyRateSuperpixel
 5. Run the Classifier: 
     * Use the main_MSBNSC_ALL.m to run the Multi-Scale Superpixel Based Nearest Subspace Classifier
   
-Notes
+# Notes
 * Ensure that the ERS code is correctly placed in the designated subfolder to enable seamless integration with the classifier.
 * Refer to the documentation within the ERS repository for additional information on its usage and functionalities.
 
