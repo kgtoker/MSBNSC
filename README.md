@@ -36,7 +36,7 @@ https://github.com/mingyuliutw/EntropyRateSuperpixel
     * Use the main_MSBNSC_ALL.m to run the Multi-Scale Superpixel Based Nearest Subspace Classifier
   
 # Notes
-* Ensure that the ERS code is correctly placed in the designated subfolder to enable seamless integration with the classifier.
+* Please ensure that the ERS code is correctly placed in the designated subfolder to enable seamless integration with the classifier.
 * Refer to the documentation within the ERS repository for additional information on its usage and functionalities.
 
 If you use the dataset, please cite the papers given below,
