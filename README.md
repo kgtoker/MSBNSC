@@ -68,4 +68,6 @@ doi = {10.1117/12.2622287},
 URL = {https://doi.org/10.1117/12.2622287}
 }
 
+The proposed method can also be used as a hyperspectral classification tool in various fields for multi-class classification. However, some issues may affect the method's performance. One of these is that the method is linear and uses spectral similarity between training and test samples during classification, which can negatively affect the performance in datasets with spectrally similar classes. Another area for improvement is that an imbalanced distribution of training data size for different classes can result in bias when classifying instances. The classes with a larger number of training samples, meaning subspaces with larger dimensions, are more likely to be selected even if it is not the correct classification. Furthermore, although our method shows strong performance with limited training data, it may not outperform deep learning approaches when extensive training data is available. 
+
 
