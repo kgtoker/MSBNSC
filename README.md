@@ -2,7 +2,7 @@
 This repository contains MATLAB code for implementing the "Multi-scale superpixel-based nearest subspace classifier for mucilage detection from hyperspectral PRISMA data" 
 If you use the code, please cite the paper given below,
 
-https://authors.elsevier.com/a/1jN9Q3l0%7Eht4K7
+https://www.sciencedirect.com/science/article/abs/pii/S1051200424002823
 
 @article{TOKER2024104657,
 title = {Multi-scale superpixel-based nearest subspace classifier for mucilage detection from hyperspectral PRISMA data},
